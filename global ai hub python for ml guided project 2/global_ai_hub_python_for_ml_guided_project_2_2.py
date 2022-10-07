@@ -144,7 +144,7 @@ class Trading:
             company slogan: {self.company_slogan}
             sales: {self.sales}
             expenses:{self.expenses}
-            revenur: {self.revenue}""")
+            revenue: {self.revenue}""")
 
     #Define the update_sales_and_expenses method
     def update_sales_and_expenses(self):
